@@ -8,7 +8,11 @@ The datasets include various attributes such as marital status, gender, income, 
 
  
 
-      This project contains an interactive dashboard that provides an overview of the sales data and allows users to explore key metrics and trends like.The user-friendly dashboard displays trends in the dataset.
+  
+   
+   
+   
+   This project contains an interactive dashboard that provides an overview of the sales data and allows users to explore key metrics and trends like.The user-friendly dashboard displays trends in the dataset.
 The trends are:
 Individuals with a commute distance of 2–5 miles have the highest likelihood of purchasing a bike.
 Individuals commuting 10+ miles have the lowest likelihood of purchasing a bike.
